@@ -1,2 +1,4 @@
 # SareMLDC
-Kazkas
+
+
+Test project of Students SareMLDC!
